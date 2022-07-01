@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react_ecommerce/static/js/main.9d021283.js",
+    "static/media/logo.png": "/react_ecommerce/static/media/logo.457bea4f142b5443dec4.png",
+    "index.html": "/react_ecommerce/index.html",
+    "main.9d021283.js.map": "/react_ecommerce/static/js/main.9d021283.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9d021283.js"
+  ]
+}
